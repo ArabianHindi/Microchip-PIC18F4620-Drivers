@@ -1,2 +1,9 @@
-# Microchip-PIC18F4620-Drivers
-Drivers for all peripherals inside Microchip PIC18F4620 with some component drivers in ECU Layer
+# PIC18F4620 Drivers
+
+Drivers for PIC18F4620 Microcontroller
+
+## Files
+
+ 
+ - **ECU Layer:** ECU Abstraction Layer: contains software related to any hardware interfacing element.
+ - **MCAL:** Microcontroller Abstraction Layer: contains software related to any peripheral inside the microcontroller.
